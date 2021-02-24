@@ -4,5 +4,40 @@
         <nume>Popescu</nume>
         <prenume>Ion</prenume>
         <varsta>23</varsta>
+        <adresa>
+            <strada>Stefan cel Mare</strada>
+            <numar>12</numar>
+            <localitate> Iasi</localitate>
+            <judetul>Iasi</judetul> 
+            <tara>Romania</tara>
+        </adresa>
     </persoana>
+
+    <persoana id="2">
+        <nume>Ionescu</nume>
+        <prenume>Ana</prenume>
+        <varsta>21</varsta>
+        <adresa>
+            <strada>Alexandru cel Bun</strada>
+            <numar>18</numar>
+            <localitate> Iasi</localitate>
+            <judetul>Iasi</judetul> 
+            <tara>Romania</tara>
+        </adresa>
+    </persoana>
+
+    <persoana id="3">
+        <nume>Cosma</nume>
+        <prenume>Stefan</prenume>
+        <varsta>21</varsta>
+        <adresa>
+            <strada>Bulevardul Republicii</strada>
+            <numar>24</numar>
+            <localitate> Barlad</localitate>
+            <judetul>Vaslui</judetul> 
+            <tara>Romania</tara>
+        </adresa>
+    </persoana>
+
+    
 </persoane>
